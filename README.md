@@ -1,6 +1,6 @@
 # Java-Assignment
 
-In this Repo, all my college java assignment will be added.
+In this Repo, all SGSITS college java assignment will be added. Don't just do copy paste, first read then understand the code properly, and if dount contact us.
 
 ## Getting Started
 
